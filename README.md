@@ -14,12 +14,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student at UET Taxila**, currently in my 3rd semester, with a foundational background in **C++** and a growing focus on **Generative AI systems**. My work spans the full stack of engineering — from discrete diode/transistor logic circuits up to LLM fine-tuning and RAG pipelines.
+I'm a **Computer Engineering student at UET Taxila**, currently in my 3rd semester, with a foundational background in **C++** and a growing focus on **Generative AI systems**. My work spans the full stack of engineering — from discrete diode/transistor logic circuits up to LLM fine-tuning, RAG pipelines, and real-time computer vision in the browser.
 
 ### 🚀 Currently Working On
 - 🤖 Retrieval-Augmented Generation (RAG) & vector search
 - 🧬 LoRA / PEFT fine-tuning on LLaMA models
 - 🖥️ Local LLM orchestration (Ollama, Streamlit)
+- 🎭 Real-time computer vision in the browser (face & hand tracking)
 - 🔌 Digital logic design & circuit fundamentals
 
 ---
@@ -48,6 +49,7 @@ I'm a **Computer Engineering student at UET Taxila**, currently in my 3rd semest
 | 04 | 🎙️ **Speech-to-Reasoning Pipeline** | Whisper ASR + TinyLlama | [View](https://github.com/sobanasif78/speech-reasoning-pipeline) |
 | 05 | 🎬 **Netflix Clone** | HTML, CSS, JavaScript | [View](https://github.com/sobanasif78/netflix-clone) |
 | 06 | 🏋️ **Gym Workout Tracker** | C++, File I/O, Data Structures | [View](https://github.com/sobanasif78/gym-workout-tracker-cpp) |
+| 07 | 🎭 **Expression → Meme** | face-api.js, MediaPipe Hands, Real-Time CV | [View](https://github.com/sobanasif78/Expression-meme) · [Live Demo](https://sobanasif78.github.io/Expression-meme/) |
 
 ### 🩺 RAG Medical Q&A Pipeline
 Retrieval-Augmented Generation system for answering medical questions from a curated knowledge base.
@@ -65,12 +67,17 @@ Parameter-efficient fine-tuning adapter targeting Llama-3-8B-Instruct for medica
 End-to-end voice Q&A pipeline combining ASR and lightweight LLM reasoning.
 **Features:** Whisper transcription · TinyLlama reasoning · health-query demo
 
+### 🎭 Expression → Meme
+Real-time, fully client-side webcam app that detects facial expressions and hand gestures and reacts with a matching meme — no backend, runs entirely in the browser.
+**Features:** face-api.js expression recognition (7 emotions) · MediaPipe Hands gesture detection (custom finger-geometry rules) · EMA-smoothed, streak-confirmed predictions for stable results
+
 ---
 
 ## 🎓 Background
 - Computer Engineering @ **UET Taxila** (Class of 2029)
 - Generative AI Internship @ **Arch Technologies**
 - Google AI Essentials Specialization (Coursera)
+- GitHub Student Developer Pack — Approved ✅
 
 ---
 
